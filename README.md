@@ -2,7 +2,10 @@ Git commands schreiben
 
 git add
 
-git commit
+git commit -m (comment)
 
 git init
 
+git push
+
+git pull 
